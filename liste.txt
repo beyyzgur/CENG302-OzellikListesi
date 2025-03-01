@@ -1,4 +1,4 @@
-1- e devlet uzerinden giris
 2- giris icin auth sistemi
-3- yapay zeka icersin
-4- isitme engelliler icin sesli okuma özelliği olsun
+1- e devlet uzerinden giris
+4- yapay zeka icersin
+5- isitme engelliler icin sesli okuma özelliği olsun

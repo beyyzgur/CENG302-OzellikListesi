@@ -2,3 +2,4 @@
 2- giris icin auth sistemi
 3- ui kırmızı beyaz olsun
 4- yapay zeka icersin
+5- isitme engelliler icin sesli okuma özelliği olsun
